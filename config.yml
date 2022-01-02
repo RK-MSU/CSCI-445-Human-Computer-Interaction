@@ -1,0 +1,11 @@
+title: Node Markdown Documentation
+
+outputDir: build
+sourceDir: docs
+
+themeDir: theme
+
+customVariables:
+  current_version: '6.0.6'
+  current_year: 2022
+  github_edit_url: https://github.com/RK311y/Markdown-Nodejs-Docs/blob/master/docs/

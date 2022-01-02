@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<title>{{page_title}} — {{site_name}}</title>
+
+		<link rel="stylesheet" href="{{assets_dir}}default.min.css?v=3">
+
+		<link rel="icon" href="{{assets_dir}}images/icon.png">
+		<meta name="theme-color" content="#ffffff">
+
+		<style>.sidebar-toc { visibility: hidden; }</style>
+		<noscript><style>.sidebar-toc { visibility: visible; }</style></noscript>
+	</head>
+	<body>
+
+		<div class="header">
+			<div class="header-content">
+				<a href="{{root_dir}}index.html" class="header-logo"><img src="{{assets_dir}}images/logo_white.svg" alt=""></a>
+				<a href="{{root_dir}}index.html" class="header-title">{{site_name}}</a>
+				<div class="hamburger mobile-menu-button" onclick="toggleMobileMenu();">
+					<span></span><span></span><span></span>
+				</div>
+			</div>
+		</div>
+
+		<div class="sidebar-container">
+			<div class="sidebar">
+				<div class="sidebar-toc">
+					{{toc}}
+				</div>
+			</div>
+		</div>
+
+		<section class="docs-content-wrapper">
+			<div class="content" id="docsearch-content">
+				{{page_content}}
+
+				<hr>
+
+				<p class="docs-footer">
+					<span>{{site_name}}
+					<br>
+					</span>
+					<a target="_blank" class="docs-contribute-to-page-button" href="{{github_edit_url}}{{page_path}}">Edit this page</a>
+				</p>
+			</div>
+		</section>
+
+		<script src="{{assets_dir}}main.min.js"></script>
+	</body>
+</html>
