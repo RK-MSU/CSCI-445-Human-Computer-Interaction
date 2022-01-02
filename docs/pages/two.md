@@ -1,5 +1,7 @@
 # Two
 
+[TOC]
+
 Dictum varius duis at consectetur lorem donec massa. Ut enim blandit volutpat maecenas volutpat blandit aliquam. Sit amet aliquam id diam. Senectus et netus et malesuada fames ac turpis egestas sed. Enim diam vulputate ut pharetra sit amet.
 
 Dictum varius duis at consectetur lorem donec massa. Ut enim blandit volutpat maecenas volutpat blandit aliquam. Sit amet aliquam id diam. Senectus et netus et malesuada fames ac turpis egestas sed. Enim diam vulputate ut pharetra sit amet.Dictum varius duis at consectetur lorem donec massa. Ut enim blandit volutpat maecenas volutpat blandit aliquam. Sit amet aliquam id diam. Senectus et netus et malesuada fames ac turpis egestas sed. Enim diam vulputate ut pharetra sit amet.

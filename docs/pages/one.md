@@ -1,5 +1,7 @@
 # One
 
+[TOC]
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Est ultricies integer quis auctor. Lectus magna fringilla urna porttitor rhoncus dolor purus non enim. Eu scelerisque felis imperdiet proin fermentum leo. Enim diam vulputate ut pharetra sit amet aliquam id. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus. Pretium lectus quam id leo in vitae. Eu feugiat pretium nibh ipsum consequat. Mi in nulla posuere sollicitudin. Et malesuada fames ac turpis egestas sed.
 
     this test
