@@ -88,25 +88,25 @@ function scrollActiveTocLinkIntoView() {
 
 	// -------------------------------------------------------------------
 
-	var items = document.querySelectorAll('.sidebar-toc li > ul');
+	// var items = document.querySelectorAll('.sidebar-toc li > ul');
 
-	// Hide every toc ul that is not the active one
-	for (var i = 0; i < items.length; i++) {
-		;(function() {
-			let item = items[i];
+	// // Hide every toc ul that is not the active one
+	// for (var i = 0; i < items.length; i++) {
+	// 	;(function() {
+	// 		let item = items[i];
 
-			item = item.closest('li');
+	// 		item = item.closest('li');
 
-			if (!item.classList.contains('active')) {
-				closeNavItem(item);
-			}
+	// 		if (!item.classList.contains('active')) {
+	// 			closeNavItem(item);
+	// 		}
 
-			item.addEventListener('click', function(event) {
-				event.stopPropagation();
-				expandNavItem(event);
-			})
-		})();
-	}
+	// 		item.addEventListener('click', function(event) {
+	// 			event.stopPropagation();
+	// 			expandNavItem(event);
+	// 		})
+	// 	})();
+	// }
 
 	// Make the toc visible now that the uls have been hidden
 	document.querySelector('.sidebar-toc').style.visibility = 'visible';
