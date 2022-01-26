@@ -3,12 +3,17 @@
 # _toc.yml
 #
 
-- name: Welcome
+- name: "Welcome!"
   href: index.md
 
-- name: Pages
+- name: Week 1 - Jan. 19
   items:
-    - name: One
-      href: pages/one.md
-    - name: Two
-      href: pages/two.md
+    - name: What Is This Course About
+      href: week1/what-is-this-course-about.md
+
+- name: Week 2 - Jan. 24
+  items:
+    - name: Human Factors
+      href: week2/human-factors.md
+    - name: Framework For User Experience
+      href: week2/framework-for-user-experience.md

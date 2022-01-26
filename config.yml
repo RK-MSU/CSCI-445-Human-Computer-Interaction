@@ -1,4 +1,4 @@
-title: Node Markdown Documentation
+title: "CSCI-445: Human Computer Interaction"
 
 outputDir: build
 sourceDir: docs
@@ -6,6 +6,5 @@ sourceDir: docs
 themeDir: theme
 
 customVariables:
-  current_version: '6.0.6'
   current_year: 2022
-  github_edit_url: https://github.com/RK311y/Markdown-Nodejs-Docs/blob/master/docs/
+  github_edit_url: https://github.com/RK-MSU/CSCI-445-Human-Computer-Interaction/blob/notes/docs/
